@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Windows.Speech;
 using System.Linq;
 
-// 曼绊傅农 : https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/voice-input-in-unity#enabling-the-capability-for-voice
+// 彀戈碃毵來伂 : https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/voice-input-in-unity#enabling-the-capability-for-voice
 
 public class UserSound : MonoBehaviour
 {
@@ -25,7 +25,7 @@ public class UserSound : MonoBehaviour
         keywordRecognizer = new KeywordRecognizer(keywords.Keys.ToArray());
         keywordRecognizer.OnPhraseRecognized += KeywordRecognizer_OnPhraseRecognized;
         keywordRecognizer.Start();
-        // Debug.Log("己傍");
+        // Debug.Log("靹标车");
     }
 
     private void KeywordRecognizer_OnPhraseRecognized(PhraseRecognizedEventArgs args)
