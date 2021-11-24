@@ -10,9 +10,16 @@
 </p>
 <hr/>
 <h4>참고자료</h4>
+
 전반적인 코드 참고
+
 * (유니티강좌) Mysql를 이용한 로그인 시스템만들기 #1 <https://www.youtube.com/watch?v=l1ZOj-ufZzc>
+
 * (유니티강좌) Mysql를 이용한 로그인 시스템만들기 #2 <https://www.youtube.com/watch?v=8ZD9qRjYH90>
+
 * (유니티강좌) Mysql를 이용한 로그인 시스템만들기 #3 <https://www.youtube.com/watch?v=tF3ufbb_yp4>
+
+
 추가 코드 참고
+
 * https://docs.unity3d.com/kr/2021.2/Manual/UnityWebRequest-SendingForm.html
