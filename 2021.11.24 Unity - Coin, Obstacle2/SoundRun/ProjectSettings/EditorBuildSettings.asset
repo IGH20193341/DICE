@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/UI/Login/LoginScene.unity
+    guid: 10aa82924718a314fac0d1b972a75142
+  - enabled: 1
+    path: Assets/Scenes/SoundRun.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/UI/Login/SignUpScene.unity
+    guid: ef898e52c5d02234bb71818f9ba3416b
+  - enabled: 1
+    path: Assets/Scenes/UI/Login/FindInfo/FindInfoScene.unity
+    guid: 87114b4997ba77047ad55cc5008343c8
+  - enabled: 1
+    path: Assets/Scenes/UI/Login/FindInfo/FindIDScene.unity
+    guid: bc866390a9c1f4945a9fff5429dcf6ab
+  - enabled: 1
+    path: Assets/Scenes/UI/Login/FindInfo/FindPWScene.unity
+    guid: d5eb3828d068a2847aa11d3e02060513
+  - enabled: 1
+    path: Assets/Scenes/UI/CustomCharacter.unity
+    guid: b97ef299827a82149a12bc410dca30bf
+  - enabled: 1
+    path: Assets/Scenes/UI/Main Page.unity
+    guid: 62ba36a98344cd340a224a6d789d9ad2
+  - enabled: 1
+    path: Assets/Scenes/UI/Option.unity
+    guid: 5ec0a5cbe69f9af4b921c06642d87395
+  - enabled: 1
+    path: Assets/Scenes/UI/MyPage.unity
+    guid: 247abef97f7790449a8c9dfa07b69bab
+  m_configObjects:
+    AddressableAssetSettings: {fileID: 0}
+    com.unity.addressableassets: {fileID: 11400000, guid: b326c184dbebf6b4e8e5be689c39d470,
+      type: 2}
