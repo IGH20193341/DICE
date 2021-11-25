@@ -3,5 +3,5 @@
 -----------------------------------------
 수정해야할 부분 :
 
-Scripts - ReSpawn.cs
+Scripts - ReSpawn.cs, DataMgr.cs, SelectChar.cs
 
