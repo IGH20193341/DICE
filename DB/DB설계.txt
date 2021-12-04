@@ -1,0 +1,14 @@
+create database sw_db;
+
+create table user	(
+user_id varchar(20) not null,
+user_pw varchar(20),
+coin int(11),
+user_name varchar(20),
+primary key(user_id)	)
+
+create table playtime	(
+playnum int not null auto_increment,
+user_id varchar(20),
+ptime time,
+primary key(playnum)	)
